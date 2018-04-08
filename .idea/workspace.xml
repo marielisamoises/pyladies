@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cd4047-d0de-4bb1-98f8-5e2e720c3833" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/sorocaba/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sorocaba/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorocaba/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sorocaba/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sorocaba/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="197" selection-start-line="197" selection-end-line="197" />
+            <state relative-caret-position="17">
+              <caret line="291" column="30" selection-start-line="291" selection-start-column="30" selection-end-line="291" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -34,6 +33,7 @@
       <find>img</find>
       <find>about</find>
       <find>contact</find>
+      <find>send</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -54,9 +54,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-11" />
+    <option name="x" value="-5" />
     <option name="width" value="1938" />
-    <option name="height" value="1031" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -81,6 +81,12 @@
               <item name="pyladies" type="462c0819:PsiDirectoryNode" />
               <item name="sorocaba" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyladies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyladies" type="462c0819:PsiDirectoryNode" />
+              <item name="sorocaba" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,24 +127,26 @@
       <updated>1522879297262</updated>
       <workItem from="1522879298689" duration="7000000" />
       <workItem from="1522896849260" duration="462000" />
-      <workItem from="1522929673350" duration="1953000" />
+      <workItem from="1522929673350" duration="2529000" />
+      <workItem from="1523013796281" duration="598000" />
+      <workItem from="1523130785350" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9415000" />
+    <option name="totallyTimeSpent" value="11188000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1292" height="687" extended-state="0" />
+    <frame x="-3" y="0" width="1292" height="688" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25099602" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25099602" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32789856" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -157,6 +165,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sorocaba/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4947">
+          <caret line="291" column="30" selection-start-line="291" selection-start-column="30" selection-end-line="291" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorocaba/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4947">
+          <caret line="291" column="30" lean-forward="true" selection-start-line="291" selection-start-column="30" selection-end-line="291" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sorocaba/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3774">
@@ -192,10 +214,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sorocaba/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sorocaba/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        <state relative-caret-position="17">
+          <caret line="291" column="30" selection-start-line="291" selection-start-column="30" selection-end-line="291" selection-end-column="30" />
         </state>
       </provider>
     </entry>
